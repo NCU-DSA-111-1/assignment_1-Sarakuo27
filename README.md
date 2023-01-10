@@ -11,3 +11,4 @@ Final Output Biases<br>
 ------
 依序輸入first bit、second bit<br>
 output 輸出XOR後的結果<br>
+輸入99可以結束測試
