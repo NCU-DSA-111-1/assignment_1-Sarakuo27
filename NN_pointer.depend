@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673342676 source:c:\users\sarak\desktop\cad\nn_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
